@@ -1,5 +1,6 @@
 
-# **Predicción Subestacional (<span style="color:red">TRABAJANDO</span>)**
+# **Predicción Subestacional (<span style="color:red;">TRABAJANDO</span>)**
+
 
 ## **Objetivo **
 Comprender los conceptos y procedimientos utilizados en la predicción subestacional, destacando su importancia en la gestión de recursos, mitigación de riesgos y apoyo a la toma de decisiones estratégicas.
